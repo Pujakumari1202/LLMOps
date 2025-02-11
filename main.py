@@ -33,7 +33,7 @@ def user_interfaces():
 
 
         for res in response:
-            st.write(res.text,end="")
+            st.write(res.text)
 
 
 ## Call the function
